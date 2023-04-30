@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://amit0458.github.io)
 
-Full Stack Web Developer and Designer
--------------------------------------
+                         Full Stack Web Developer and Designer
+                        -------------------------------------
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 Just another geek around the world who got interest and passionate for 
 coding, developing and solving problems.
