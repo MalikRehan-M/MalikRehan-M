@@ -3,14 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer and Designer
 -------------------------------------
-
-Just another one geek around the world who got interest and passionate for coding and developing.
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Just another geek around the world who got interest and passionate for 
+coding, developing and solving problems.
 
 * 🌍  I'm based in Dharwad,Karnataka INDIA
 * 🖥️  See my portfolio at [http://malikrehan-m.github.io/](http://malikrehan-m.github.io/)
 * ✉️  You can contact me at [malikrehan.meeranaik@gmail.com](mailto:malikrehan.meeranaik@gmail.com)
 * 🧠  I'm learning MERN Stack technology
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ### Skills
 
 
