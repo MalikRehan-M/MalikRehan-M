@@ -9,7 +9,7 @@ Just another geek around the world who got interest and passionate for
 coding, developing and solving problems.
 
 * 🌍  I'm based in Dharwad,Karnataka INDIA
-* 🖥️  See my portfolio at [https://malikrehan-m.github.io/](http://malikrehan-m.github.io/)
+* 🖥️  See my portfolio at [https://malikrehan-m.github.io/](https://malikrehan-m.github.io/)
 * ✉️  You can contact me at [malikrehan.meeranaik@gmail.com](mailto:malikrehan.meeranaik@gmail.com)
 * 🧠  I'm learning MERN Stack technology
 
